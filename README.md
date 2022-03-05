@@ -5,8 +5,13 @@ I have created this custom component as a temporary workaround until the officia
 
 All credit goes to DavidFW1960 for the custom component configuration and the `manifest.json` and thank you to tkdrob for providing the fix for pysabnzbd!
 
+The relevant issues/conversations in the Home Assistant repository are:
+
+https://github.com/home-assistant/core/issues/61306
+https://github.com/home-assistant/core/issues/67532
+
 ## Installation
-The below steps assume you have HACS installed
+_The below steps assume you have [HACS](https://hacs.xyz/) installed_
 1. Navigate to HACS (click HACS on the sidebar!)
 2. Open Integrations
 3. Click the three little dots in the top right hand corner and select "Custom repositories"
