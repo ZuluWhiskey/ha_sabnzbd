@@ -20,4 +20,6 @@ _The below steps assume you have [HACS](https://hacs.xyz/) installed_
 6. Click "Add"
 7. Press the blue `+` icon in the bottom right hand corner
 8. Search for "Custom SABnzbd", select it and click "Download this repository with HACS" & click "Download" on the following popup
-9. Reload Home Assistant Core and the SABnzbd integration will work as it did before 2022.3
+9. [Reload Home Assistant Core](https://my.home-assistant.io/redirect/config/) and the SABnzbd integration will work as it did before 2022.3
+---
+**Note: Once the official integration is working again I will archive this repository**
