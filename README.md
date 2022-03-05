@@ -7,8 +7,8 @@ All credit goes to DavidFW1960 for the custom component configuration and the `m
 
 The relevant issues/conversations in the Home Assistant repository are:
 
-https://github.com/home-assistant/core/issues/61306
-https://github.com/home-assistant/core/issues/67532
+* https://github.com/home-assistant/core/issues/61306
+* https://github.com/home-assistant/core/issues/67532
 
 ## Installation
 _The below steps assume you have [HACS](https://hacs.xyz/) installed_
