@@ -1,9 +1,9 @@
 # Custom SABnzbd integration for Home Assistant
 Due to a breaking change in Home Assistant 2022.3, the SABnzbd integration has stopped working as the Python package it depends on uses the loop keyword argument.
 
-I have created this custom component as a temporary workaround until the official integration is fixed.
+I have put together this custom component as a temporary workaround until the official integration is fixed.
 
-All credit goes to DavidFW1960 for the custom component configuration and the `manifest.json` and thank you to tkdrob for providing the fix for pysabnzbd!
+All credit goes to `DavidFW1960` for the custom component configuration and the `manifest.json` and thank you to `tkdrob` for providing the fix for pysabnzbd!
 
 The relevant issues/conversations in the Home Assistant repository are:
 
